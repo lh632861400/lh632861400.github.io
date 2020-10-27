@@ -6,7 +6,7 @@ lh632861400.github.io
 
 ├── Readme.md                   // 说明文档
 
-├── .umi                         // umi临时文件夹
+├── fe-spec                     // 前端规范项目文件夹
 
 ├── config                      // 配置
 
